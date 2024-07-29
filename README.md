@@ -1,1 +1,1 @@
-# odin_admin_tic_tac_toe_1.0
+# odin_tic_tac_toe_1.0
